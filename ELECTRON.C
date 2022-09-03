@@ -4,7 +4,8 @@
 #define pi 3.14
 void main()
 {
-   float choice,res,cap,ind,n,equi_res,equi_cap,com_choice,Xc,Xl,freq,ang_freq,rec_case,imp_choice,imp,current,i,arr[100];
+   float choice,res,cap,ind,n,equi_res,equi_cap,com_choice,Xc,Xl,freq,ang_freq,rec_case,imp_choice,imp,current,arr[100];
+   int i
    clrscr();
    printf("Welcome!!! electronic circuit analyzer\n");
    printf("enter your choice--> 1.resistance(similar value) 2.capacitance(similar value) 3.capacitive reactance 4.inductive reactance 5.impedence 6.resistance(different values) 7.capacitance(different value):\n");
