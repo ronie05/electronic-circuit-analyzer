@@ -8,7 +8,7 @@ void main()
    int i
    clrscr();
    printf("Welcome!!! electronic circuit analyzer\n");
-   printf("enter your choice--> 1.resistance(similar value) 2.capacitance(similar value) 3.capacitive reactance 4.inductive reactance 5.impedence 6.resistance(different values) 7.capacitance(different value):\n");
+   printf("enter your choice--> \n1.resistance(similar value)\n 2.capacitance(similar value)\n 3.capacitive reactance\n 4.inductive reactance \n5.impedence 6.resistance(different values)\n 7.capacitance(different value)\n");
    scanf("%f",&choice);
    if(choice==1){
 
